@@ -15,24 +15,3 @@ All notable changes to this project will be documented in this file. See [standa
 * add the function and layout of the user file e884ba3
 * add track stock list e106918
 * init vue cli and setting plugin f80bcb1
-
-## 1.0.0 (2021-07-29)
-
-
-### Features
-
-* init vue cli and setting plugin f80bcb1
-
-## 1.0.0 (2021-07-29)
-
-
-### Features
-
-* init vue cli and setting plugin f80bcb1
-
-## 1.0.0 (2021-07-28)
-
-
-### Features
-
-* init vue cli and setting plugin f80bcb1

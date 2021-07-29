@@ -4,7 +4,6 @@ node_modules
 
 # commit message rule
 commitlint.config.js
-CHANGELOG.md
 /.husky
 
 
