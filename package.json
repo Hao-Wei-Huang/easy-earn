@@ -59,7 +59,8 @@
       "parser": "babel-eslint"
     },
     "rules": {
-      "import/no-unresolved": "off"
+      "import/no-unresolved": "off",
+      "import/extensions": "off"
     }
   },
   "browserslist": [
