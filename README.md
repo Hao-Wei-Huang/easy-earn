@@ -31,10 +31,8 @@ The screened stock system is composed of website, web server, and stock reptile.
 * Web server is the [tw-stock-api](https://github.com/Hao-Wei-Huang/tw-stock-api).
 * Stock reptile is the [tw-stock-reptile](https://github.com/Hao-Wei-Huang/tw-stock-reptile).
 
-<p style="text-align: center;">
-  <img src="https://i.imgur.com/hj8vX0w.png" alt="Material Bread logo">
-  <span>system architecture diagram</span>
-</p>
+![](https://i.imgur.com/hj8vX0w.png)
+system architecture diagram
 
 ## Notes
 1. The website only provides stock screening and stock information query functions, moreover there is no intention to recommend stocks. Please evaluate carefully.
