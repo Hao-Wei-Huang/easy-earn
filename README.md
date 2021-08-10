@@ -32,6 +32,7 @@ The screened stock system is composed of website, web server, and stock reptile.
 * Stock reptile is the [tw-stock-reptile](https://github.com/Hao-Wei-Huang/tw-stock-reptile).
 
 ![](https://i.imgur.com/hj8vX0w.png)
+<br>
 system architecture diagram
 
 ## Notes
